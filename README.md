@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="500"/>
 </div>
 
 <div id="badges">
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
-<img src="<img src="https://komarev.com/ghpvc/?username=pragathiyp&style=flat-square&color=blue" alt=""/>" alt=""/>
+<img src="<img src="https://komarev.com/ghpvc/?username=pragathiyp&style=flat-square&color=blue" alt="/">
 <h1>
   Hello !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
