@@ -36,9 +36,12 @@ Here are some ideas to get you started:
 ---
 
 ### About Me :
-- :telescope: I’m Computer Science Undergraduate student at BMS College of Engineering .At present, my primary focus is on applying cutting-edge Web development techniques to create real world applications. I'm also keen on exploring other domains and would be glad to be a part of some interesting projects.
+I'm a fourth-year undergraduate student currently pursuing my bachelor's in Computer science at BMS College of Engineering ( Visvesvaraya Technological University), Bengaluru, India. I'm a highly driven student with a strong passion for technology eager to embrace challenges and collaborate effectively to drive innovative solutions.
 
-- :zap: I also possess exceptional interpersonal skills of leadership, good communication and ability to work in a team. I have also maintained a good academic record with commendable analytical and logical skills.
+With prior experiences in Natural Language Processing through my projects involving text summarization and Question answering systems, internship at Fidelity Investments in the realms of DevOps and coursework in Cryptography, Algorithms, and Databases, I am resolute in advancing my technical skills and making impactful contributions.
+
+My interests also lie in coding using Java, Data structures and algorithms, full-stack development(MERN), and Mathematics.
+I also possess exceptional interpersonal skills of leadership and communication. I have also maintained a good academic record with commendable analytical and logical skills.
 
 
 ### Languages and Frameworks:
