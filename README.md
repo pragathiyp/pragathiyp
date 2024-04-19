@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 ##  About Me 
 I'm a fourth-year undergraduate student currently pursuing my bachelor's in Computer science at BMS College of Engineering ( Visvesvaraya Technological University), Bengaluru, India. I'm a highly driven student with a strong passion for technology eager to embrace challenges and collaborate effectively to drive innovative solutions.
 
-With prior experiences in Natural Language Processing through my projects involving text summarization and Question answering systems, internship at Fidelity Investments in the realms of DevOps and coursework in Cryptography, Algorithms, and Databases, I am resolute in advancing my technical skills and making impactful contributions.
+With prior experiences in Natural Language Processing and Computer Vision through my projects involving text summarization and Question answering systems, multimodal text generation, video synthesis, as well as  internships at Fidelity Investments in the realms of DevOps and relevant coursework, I am resolute in advancing my technical skills and making impactful contributions.
 
-My interests also lie in coding using Java, Data structures and algorithms, full-stack development(MERN), and Mathematics.
+My interests also lie in coding using Java, Data structures and algorithms, full-stack development(MERN), databases and Mathematics.
 I also possess exceptional interpersonal skills of leadership and communication. I have also maintained a good academic record with commendable analytical and logical skills.
 
 
