@@ -22,38 +22,78 @@ Here are some ideas to get you started:
 </div>
 
 ##  About Me 
-I'm a fourth-year undergraduate student currently pursuing my bachelor's in Computer science at BMS College of Engineering ( Visvesvaraya Technological University), Bengaluru, India. I'm a highly driven student with a strong passion for technology eager to embrace challenges and collaborate effectively to drive innovative solutions.
+I am a Software Engineer at Visa Inc., Bengaluru, where I work on building scalable, high-availability infrastructure across multi-platform environments, including Windows, Linux, VMware ESXi, Hyper-V, and Red Hat OpenShift. My work spans systems engineering, automation, and enterprise-scale virtualization, where I have contributed to compute provisioning, Copilot Studio Agent development, and infrastructure automation that has significantly improved operational efficiency.
 
-With prior experiences in Natural Language Processing and Computer Vision through my projects involving text summarization and Question answering systems, multimodal text generation, video synthesis, as well as  internships at Fidelity Investments in the realms of DevOps and relevant coursework, I am resolute in advancing my technical skills and making impactful contributions.
+Alongside my industry work, I maintain a strong academic and research profile in Natural Language Processing, Computer Vision, and Multimodal Generation. My research has resulted in publications at respected venues such as ACL 2025 and Springer LNNS, including work on multimodal summarization, advertisement generation, and scientific content summarization. My research interests focus on multimodal alignment, dataset construction, grounded text–image generation, and diffusion-based video synthesis, with an emphasis on culturally contextual and low-resource Indian language settings.
 
-My interests also lie in coding using Java, Data structures and algorithms, full-stack development(MERN), databases and Mathematics.
-I also possess exceptional interpersonal skills of leadership and communication. I have also maintained a good academic record with commendable analytical and logical skills.
+Previously, I worked as a Research Intern at IIT Patna, contributing to the COSMMIC dataset and enhancing multimodal summarization systems. I also have experience in full-stack development through earlier roles and projects involving MERN applications, backend services, and secure payment workflows. My technical strengths span Java, Python, data structures and algorithms, machine learning frameworks, and distributed systems. Across my roles, I aim to bridge research-driven model development with scalable engineering, and contribute solutions that are robust, data-driven, and impactful.
 
+<!-- 📊 Data Science & Machine Learning -->
+## 📊 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Video_Processing-00A8A8?style=for-the-badge"/>
+</p>
 
-## 👨‍💻 Languages and Frameworks:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="40"/>&nbsp;<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" title="c" alt="c" width="100" height="40"/>&nbsp;<a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="100" height="40"/></a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="js" alt="js" width="100" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="100" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="100" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="100" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="100" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="100" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="100" height="40"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" width="100" height="40"/>&nbsp;<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP" alt="PHP" width="100" height="40"/>&nbsp;<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="expressJs" alt="express js" width="100" height="40"/>&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="bootstrap" alt="Bootstrap" width="100" height="40"/>&nbsp;<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI" width="80" height="40"/>&nbsp;<img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="100" height="40"/><img alt="" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white " width="100" height="40"/><img alt="" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" width="100" height="40"/>
-</div>
+<!-- 📚 Core Concepts -->
+## 📚 Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-2E8B57?style=for-the-badge"/>
+</p>
 
+<!-- 👨‍💻 Programming Languages -->
+## 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-## 🔧 Tools:
+<!-- 🖥️ Operating Systems & Virtualization -->
+## 🖥️ Operating Systems & Virtualization
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+</p>
 
-<div>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" **alt="Git" width="100" height="40"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" title="postman" **alt="postman" width="100" height="40"/>  
-       <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" title="babel" **alt="babel" width="100" height="40"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="heroku" **alt="babel" width="100" height="40"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="vscode" **alt="vscode" width="100" height="40"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" title="canva" **alt="canva" width="100" height="40"/>
-  <a href=""><img alt="" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" width="100" height="40"/></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" width="100" height="40"/></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" width="100" height="40"/></a>
+<!-- 🌐 Web Development -->
+## 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
+<!-- 🗄️ Databases -->
+## 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-  
+<!-- 🛠️ Tools -->
+## 🛠️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-  
-</div>
 
 ## ☎️ Contact me 
 
