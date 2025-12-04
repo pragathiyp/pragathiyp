@@ -38,6 +38,11 @@ Previously, I worked as a Research Intern at IIT Patna, contributing to the COSM
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-6A0DAD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Video_Processing-00A8A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-5A2EE0?style=for-the-badge&logo=robot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cline_AI_Agent-000000?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-000000?style=for-the-badge&logo=terminal&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-6A5ACD?style=for-the-badge&logo=brain&logoColor=white"/>
+
 </p>
 
 <!-- 📚 Core Concepts -->
